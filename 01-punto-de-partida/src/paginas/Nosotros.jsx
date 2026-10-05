@@ -3,7 +3,10 @@ export default function Nosotros() {
     <section>
       <h1 className="h3">Nosotros</h1>
       <p>
-        Tienda en línea del Equipo 1 para la asignatura Desarrollo Fullstack II.
+        Tienda en línea del Equipos y productos variados para ti, te esperamos.
+      </p>
+      <p>
+        
       </p>
     </section>
   )

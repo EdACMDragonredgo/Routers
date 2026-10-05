@@ -1,16 +1,17 @@
-/* Estilos propios. Bootstrap resuelve casi todo; aquí van solo los ajustes
-   que el framework no trae. */
-
-/* NavLink agrega automáticamente la clase "active" al enlace de la ruta
-   vigente. Le damos un subrayado para que se note en todos los tamaños. */
 .navbar .nav-link.active {
   font-weight: 600;
   text-decoration: underline;
   text-underline-offset: 0.35rem;
 }
 
-/* Evita que el emoji de las tarjetas se estire en pantallas anchas. */
+
 .card .display-1,
 .card .fs-1 {
   line-height: 1;
+}
+body {
+  background-color: #FFF8DC;
+}
+cata.card {
+  background-color: #FFFAF0;
 }
